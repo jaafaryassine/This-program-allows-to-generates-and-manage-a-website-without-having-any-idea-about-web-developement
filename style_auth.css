@@ -1,0 +1,31 @@
+*{
+    background-color: #f7f7f7;
+}
+
+form{
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    padding: 25px;
+    border-radius: 20px;
+    margin-top: 100px;
+    box-shadow: 2px 2px 2px 2px  #BDBDBD;
+}
+h3{
+    background-color: white;
+}
+input{
+    padding: 15px;
+    margin-top: 5px;
+    border-radius: 16px;
+    border: groove;
+}
+button{
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 16px;
+    border: none;
+    background-color: rgb(29, 173, 29);
+}

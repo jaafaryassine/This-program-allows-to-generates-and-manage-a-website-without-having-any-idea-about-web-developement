@@ -1,0 +1,19 @@
+body{
+    background-image: url("./images/biblio1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    
+}
+.lien{
+    margin: auto;
+    margin-top: 150px;
+    background-color: #f7f7f7;
+    width: 300px;
+    height: 200px;
+    opacity: 70%;
+    padding: 30px;
+    text-align: center;
+    border-radius: 16px;
+}
